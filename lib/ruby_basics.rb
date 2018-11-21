@@ -10,7 +10,7 @@ def argue(sup)
  sup
 end
 
-def greeting(greeting, name)
+def greeting(hello, bob)
 puts "#{hello}, #{bob}
 end
 
