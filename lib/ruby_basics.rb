@@ -10,8 +10,8 @@ def argue(sup)
  sup
 end
 
-def greeting
-
+def greeting(greeting, name)
+puts "#{hello}, #{bob}
 end
 
 def return_a_value
